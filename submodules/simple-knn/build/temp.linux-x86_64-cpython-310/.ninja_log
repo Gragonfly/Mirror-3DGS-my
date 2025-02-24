@@ -1,0 +1,4 @@
+# ninja log v5
+0	5062	1728901710932796513	/home/dell/fgm/origin/gaussian-splatting/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/simple_knn.o	84520f606100bb9f
+0	8218	1728901714087786923	/home/dell/fgm/origin/gaussian-splatting/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/ext.o	c236fecc7fe74ec2
+0	27295	1728901733161728937	/home/dell/fgm/origin/gaussian-splatting/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/spatial.o	8bba392f28e2cea2
